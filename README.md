@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paweł Surdyka</h1>
-<h3 align="center">A aspiring backtend developer from Poland</h3>
+<h3 align="center">A aspiring backend developer from Poland</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
